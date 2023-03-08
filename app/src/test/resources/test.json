@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Case 1",
+    "input": {
+        "username" : "Admin@gmail.com",
+        "password" : "vuong.1300"
+    },
+    "output": true
+  },
+  {
+    "name": "Case 2",
+    "input": {
+      "username" : "Admin1",
+      "password" : "vuon"
+    },
+    "output": false
+  },
+  {
+    "name": "Case 3",
+    "input": {
+      "username" : "Admin2",
+      "password" : "vuo"
+    },
+    "output": false
+  }
+]

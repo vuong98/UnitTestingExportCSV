@@ -1,0 +1,16 @@
+LoginUnitTestTest, checkLogin() 
++,Case 1,true
++,Case 2,false
++,Case 3,false
+LoginUnitTestTest, checkLengthPassWord() 
++,Case 1,true
++,Case 2,false
++,Case 3,false
+LoginUnitTestTest, checkEmailValidator() 
++,Case 1,true
++,Case 2,false
++,Case 3,false
+LoginUnitTestTest, checkLogin() 
++,Case 1,true
++,Case 2,false
++,Case 3,false
